@@ -1,0 +1,88 @@
+{
+    "pizzas": [
+    {
+    "id": 1,
+    "name": "Classic Cheese",
+    "ingredients": "Homemade Tomato Sauce and Mozzarella",
+    "price": 10.99,
+    "image": "https://www.foodandwine.com/thmb/4qg95tjf0mgdHqez5OLLYc0PNT4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg"
+    },
+    {
+    "id": 2,
+    "name": "Pepperoni",
+    "ingredients": "Pepperoni, Homemade Tomato Sauce and Mozzarella",
+    "price": 12.99,
+    "image": "https://www.cobsbread.com/us/wp-content//uploads/2022/09/Pepperoni-pizza-850x630-1.png"
+    },
+    {
+    "id": 3,
+    "name": "Margherita",
+    "ingredients": "Fior de Latte, Homemade Tomato Sauce, Extra Virgin Olive Oil and Fresh Basil",
+    "price": 11.99,
+    "image": "https://images.ctfassets.net/nw5k25xfqsik/z5wDOVu5NTc9B9UR2gBPc/4e450952bb68f6a3b9a4a2def5cab877/20220211142645-margherita-9920.jpg?w=1024"
+    },
+    {
+    "id": 4,
+    "name": "Meat Lovers",
+    "ingredients": "Mild Italian Sausage, Pepperoni, Bacon, Homemade Tomato Sauce and Mozzarella",
+    "price": 16.99,
+    "image": "https://emeals-menubuilder.s3.amazonaws.com/v1/recipes/781180/pictures/large_meat-lovers-pizza.jpeg"
+    },
+    {
+    "id": 5,
+    "name": "Three Cheese",
+    "ingredients": "Fior de Latte, Mozzarella, Parmesan and Homemade Tomato Sauce",
+    "price": 13.99,
+    "image": "https://www.modernhoney.com/wp-content/uploads/2019/05/The-Best-3-Cheese-White-Pizza-3.jpg"
+    },
+    {
+    "id": 6,
+    "name": "Jalapeño",
+    "ingredients": "Fresh Jalapeño, Crispy Bacon, Homemade Tomato Sauce and Mozzarella",
+    "price": 14.99,
+    "image": "https://howtothisandthat.com/wp-content/uploads/2018/03/keto-diet-tips-2.png"
+    },
+    {
+    "id": 7,
+    "name": "Spinach Artichoke",
+    "ingredients": "Fresh Spinach, Marinated Artichoke Hearts, Garlic, Fior de Latte, Mozzarella, Parmesan, Crema",
+    "price": 17.99,
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps175485_TH153341B11_24_1b-11.jpg?fit=700,1024"
+    },
+    {
+    "id": 8,
+    "name": "Veggie",
+    "ingredients": "Kalamata Olives, Roasted Red Peppers, Mushrooms, Homemade Tomato Sauce, Mozzarella and Fresh Basil",
+    "price": 15.99,
+    "image": "https://www.rainbownourishments.com/wp-content/uploads/2022/01/healthy-vegan-pizza-with-figs-and-caramelized-onions-1.jpg"
+    },
+    {
+    "id": 9,
+    "name": "Pesto Chicken",
+    "ingredients": "Tomatoes, Basil, Fresh Red Onion, Mozzarella",
+    "price": 16.99,
+    "image": "https://thewanderlustkitchen.com/wp-content/uploads/2021/02/Chicken-Pesto-Pizza-Recipe-079-768x512.jpg"
+    },
+    {
+    "id": 10,
+    "name": "OBG",
+    "ingredients": "Caramelized Onions, Crispy Bacon, Garlic, Fresh Basil, Mozzarella, Crema",
+    "price": 15.99,
+    "image": "https://www.italianfoodforever.com/wp-content/uploads/2015/11/buratapizza-1.jpg"
+    },
+    {
+    "id": 11,
+    "name": "Garlic and Mushroom",
+    "ingredients": "Mushrooms, Garlic, Mozzarella, Parmesan, Crema",
+    "price": 13.99,
+    "image": "https://images.squarespace-cdn.com/content/v1/5036856ae4b02f1c1cc9ce01/1374101921187-I32T6581MX5X7NTSHCP8/chanterelle+pizza.jpg?format=750w"
+    },
+    {
+    "id": 12,
+    "name": "Chantrelle and Garlic scape ",
+    "ingredients": "Artichoke Hearts, Parmesan, Roasted Red Peppers, Kalamata Olives, Red Onion, Basil, Mozzarella, Basil Pesto",
+    "price": 20.99,
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps175485_TH153341B11_24_1b-11.jpg?fit=700,1024"
+    } 
+    ]
+    }
