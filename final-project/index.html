@@ -16,14 +16,27 @@
 <header class="header">
 <section class="flex">
 <h1 class="logo">Marinara Pizzeria</h1>
-<i class="fa fa-cart-plus" style="font-size:48px;color:black;position: fixed;top: 20px;right: 20px;"></i>
+
+<div class="cart-container">
+  <div class="cart-icon">
+    <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+    <span class="cart-count">0</span>
+  </div>
+  <div class="cart-dropdown">
+    <div class="cart-items-container"></div>
+    <div class="total-container">Total: <span class="total-price">$0.00</span></div>
+    <button class="checkout-button">Checkout</button>
+  </div>
+</div>
+
+
+
 
 <nav class="navbar">
 <a href="#home">Home</a>
 <a href="#about">About</a>
-<a href="#menu">Menu<a>
-<a href="#order">Order</a>
-<a href="#faq">Faq</a>
+<a href="#contacts">Contacts</a>
+
 </nav>
 
 </section>
@@ -31,6 +44,29 @@
 <div class="pizzas-container">
     <!-- Pizzas will be dynamically added here -->
   </div>
+  <section id="about">
+    <h2>About</h2>
+    <p>"Welcome to Marinara Pizzeria, where we specialize in serving up the most delicious and authentic Italian pizzas around. Our story began in the small town of Nairobi, Kenya, where our family recipes have been passed down from generation to generation.
+
+        With a focus on using only the freshest and highest quality ingredients, we pride ourselves on crafting each and every pizza with care and attention to detail. From our classic Margherita to our specialty pies like the Diavola, each pizza is made to order and cooked to perfection in our traditional wood-fired oven.
+        
+        At Marinara Pizzeria, we believe that great food should be enjoyed in a warm and welcoming atmosphere. That's why we've created a cozy and inviting space where you can relax and enjoy your meal with friends and family. Whether you're looking for a quick lunch or a leisurely dinner, we've got you covered.
+        
+        So come on in and experience the taste of authentic Italian pizza at Marinara Pizzeria. We can't wait to share our passion for great food with you!"</p>
+  </section>
+  
+  
+  <section id="contacts">
+    <h2>Contact Us</h2>
+    <div class="social-media">
+      <a href="https://www.instagram.com/marinara_pizzeria/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.facebook.com/marinara_pizzeria/" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.tiktok.com/@marinara_pizzeria" target="_blank"><i class="fab fa-tiktok"></i></a>
+    </div>
+    <p>Stay connected with us on social media to get the latest news and updates about our delicious Italian pizzas!</p>
+  </section>
+  
+  
 <!--Custom javascript link--> 
 <script src="script.js"></script>
 </body>
